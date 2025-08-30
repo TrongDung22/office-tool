@@ -15,9 +15,7 @@ Giải nén, sau đó chạy cmd quyền admin ở thư mục đã giải nén r
 SaRAcmd.exe -S OfficeScrubScenario -AcceptEula -OfficeVersion All
 ```
 
-Mò nghịch thêm tại: https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/administration/sara-command-line-version
-
-Bản đầy đủ: https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f?ui=en-us&rs=en-us&ad=us
+Tài liệu thêm: https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/administration/sara-command-line-version
 
 # Gỡ cài đặt office bằng uninstall troubleshooter (Máy có app Get Help)
 Được dùng khi cái SaRA bị ngu, báo hết hạn mặc dù đã download bản mới nhất  
