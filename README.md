@@ -1,4 +1,4 @@
-# Cài đặt office bằng office-odt-config
+<img width="1874" height="1157" alt="image" src="https://github.com/user-attachments/assets/66550608-ef52-47d1-bcb4-54f0ab77fe3c" /># Cài đặt office bằng office-odt-config
 link download odt: https://www.microsoft.com/en-us/download/details.aspx?id=49117
 Guide: tải file xml vào cùng thư mục mà odt đã giải , sau đó dùng cmd ở thư mục đấy rồi dùng lệnh
 ```
@@ -18,3 +18,6 @@ SaRAcmd.exe -S OfficeScrubScenario -AcceptEula -OfficeVersion All
 Mò nghịch thêm tại: https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/administration/sara-command-line-version
 
 Bản đầy đủ: https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f?ui=en-us&rs=en-us&ad=us
+
+# Gỡ cài đặt office bằng SaRA Enterprise Version
+truy cập: https://aka.ms/SaRA-officeUninstallFromPC 
