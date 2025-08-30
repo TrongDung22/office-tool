@@ -12,7 +12,7 @@ link download: https://www.microsoft.com/en-us/download/details.aspx?id=103391
 
 Giải nén, sau đó chạy cmd quyền admin ở thư mục đã giải nén rồi chạy lệnh sau:
 ```
-SaRACmd.exe -AcceptEula -s OfficeScrubScenario
+SaRAcmd.exe -S OfficeScrubScenario -AcceptEula -OfficeVersion All
 ```
 
 Mò nghịch thêm tại: https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/administration/sara-command-line-version
