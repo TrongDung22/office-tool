@@ -1,0 +1,16 @@
+<Configuration ID="95247ecd-963e-4ec1-9ee1-443283ec343c">
+  <Add OfficeClientEdition="64" Channel="SemiAnnual" SourcePath="C:\g" AllowCdnFallback="TRUE" MigrateArch="TRUE">
+    <Product ID="VisioPro2024Volume" PIDKEY="B7TN8-FJ8V3-7QYCP-HQPMV-YY89G">
+      <Language ID="en-us" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
